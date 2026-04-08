@@ -13,9 +13,9 @@
 <li>按 Enter 鍵可直接計算</li>
 <li>按 Tab 鍵可在輸入欄位依序切換</li>
 <li>非法輸入即時攔截，程式不會崩潰，範例:</li>
-<img width="285" height="200" alt="image" src="https://github.com/user-attachments/assets/b7e5d38d-8237-414c-a140-aac3758dbf0b" />
-<img width="285" height="200" alt="image" src="https://github.com/user-attachments/assets/276be1fa-6542-4578-a886-08a45e2db034" />
-<img width="285" height="200" alt="image" src="https://github.com/user-attachments/assets/614a56df-ee63-4958-8d9f-1475953ebfd3" />
+<img width="255" height="180" alt="image" src="https://github.com/user-attachments/assets/b7e5d38d-8237-414c-a140-aac3758dbf0b" />
+<img width="255" height="180" alt="image" src="https://github.com/user-attachments/assets/276be1fa-6542-4578-a886-08a45e2db034" />
+<img width="255" height="180" alt="image" src="https://github.com/user-attachments/assets/614a56df-ee63-4958-8d9f-1475953ebfd3" />
 <hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
 <h3>使用說明</h3>
 <div class="overflow-x-auto w-full px-2 mb-6">
