@@ -92,7 +92,7 @@
             this.btnCalc.Location = new System.Drawing.Point(8, 349);
             this.btnCalc.Name = "btnCalc";
             this.btnCalc.Size = new System.Drawing.Size(435, 56);
-            this.btnCalc.TabIndex = 13;
+            this.btnCalc.TabIndex = 7;
             this.btnCalc.Text = "計   算";
             this.btnCalc.UseVisualStyleBackColor = false;
             this.btnCalc.Click += new System.EventHandler(this.btnCalc_Click);
@@ -112,7 +112,7 @@
             this.txtGrace.Margin = new System.Windows.Forms.Padding(4);
             this.txtGrace.Name = "txtGrace";
             this.txtGrace.Size = new System.Drawing.Size(435, 31);
-            this.txtGrace.TabIndex = 11;
+            this.txtGrace.TabIndex = 6;
             // 
             // lblTerm
             // 
@@ -138,7 +138,7 @@
             this.rbAmount.Location = new System.Drawing.Point(290, 117);
             this.rbAmount.Name = "rbAmount";
             this.rbAmount.Size = new System.Drawing.Size(80, 24);
-            this.rbAmount.TabIndex = 8;
+            this.rbAmount.TabIndex = 2;
             this.rbAmount.TabStop = true;
             this.rbAmount.Text = "金額$";
             this.rbAmount.UseVisualStyleBackColor = true;
@@ -149,7 +149,7 @@
             this.rbPercent.Location = new System.Drawing.Point(66, 117);
             this.rbPercent.Name = "rbPercent";
             this.rbPercent.Size = new System.Drawing.Size(100, 24);
-            this.rbPercent.TabIndex = 7;
+            this.rbPercent.TabIndex = 1;
             this.rbPercent.TabStop = true;
             this.rbPercent.Text = "百分比%";
             this.rbPercent.UseVisualStyleBackColor = true;
@@ -179,7 +179,7 @@
             this.txtTerm.Margin = new System.Windows.Forms.Padding(4);
             this.txtTerm.Name = "txtTerm";
             this.txtTerm.Size = new System.Drawing.Size(198, 31);
-            this.txtTerm.TabIndex = 3;
+            this.txtTerm.TabIndex = 5;
             // 
             // txtRate
             // 
@@ -187,7 +187,7 @@
             this.txtRate.Margin = new System.Windows.Forms.Padding(4);
             this.txtRate.Name = "txtRate";
             this.txtRate.Size = new System.Drawing.Size(198, 31);
-            this.txtRate.TabIndex = 2;
+            this.txtRate.TabIndex = 4;
             // 
             // txtDown
             // 
@@ -195,7 +195,7 @@
             this.txtDown.Margin = new System.Windows.Forms.Padding(4);
             this.txtDown.Name = "txtDown";
             this.txtDown.Size = new System.Drawing.Size(435, 31);
-            this.txtDown.TabIndex = 1;
+            this.txtDown.TabIndex = 3;
             // 
             // txtPrice
             // 
@@ -340,6 +340,7 @@
             // 
             // Form1
             // 
+            this.AcceptButton = this.btnCalc;
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Orange;
